@@ -1,0 +1,45 @@
+Yo, je vous présente ce pack vite fait que j'ai réaliser en un peu moins de 2h00
+
+Mon BUT n'est pas de vous faire un pack incroyable, grâce à ce pack vous avez la base de la LSPD passé sur le nouveau commissariat. 
+
+à vous de rajouter vos trucs et faire si vous le souhaitez quelque chose de plus poussé. 
+
+Je ne l'ai pas encore bcp vue ce mapping alors j'éspère que vous allez kiffer! 
+
+( peut être des erreurs dans le police garage & police armory mais ça n'impacte rien coté joueur ).
+
+N'oubliez pas de rentrer le sql de chaques scripts qui en possède.
+
+à Start CFG : 
+
+######################## POLICE PACK BY FIVE-DEV ##########################
+
+#Scripts
+
+start esx_lspdjob
+start esx_lspdgarage
+start qalle_policearmory
+start esx_doorlock
+start esx-qalle-jail
+start esx_securityescort
+start fn_illegals
+start jsfour-criminalrecord
+start jsfour-dna
+start np-alerts
+start ESX_CommunityService
+
+#Mapping ( Il faut laisser les 2 )
+
+start pablito_komisariat_deluxe
+start pablito_rockfordhills
+
+#Vetements
+
+start eup-stream
+
+#Voiture
+
+start ghispo2
+start lspd_car
+start pol718
+start polp1
